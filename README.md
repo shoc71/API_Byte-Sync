@@ -14,7 +14,7 @@ A Social Network API that works backend using both MongoDB (NoSQL connection usi
 
 ## Installation
 1. Open up terminal (more specifically [bash](https://www.youtube.com/watch?v=3eu67g3PTdk))
-2. Install ```npx ``` and ```Node.js and npm``` packages on your desktop
+2. Install ```npx ``` and ```node``` and ```git``` and ```Node.js``` packages on your desktop
 3. Type the following command: ```git clone git@github.com:shoc71/API_Byte-Sync.git```
 4. Type the following command: ```cd API_Byte-Sync && npm i ``` 
 5. Create an .env file and add your MongoDB connection string
