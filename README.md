@@ -19,7 +19,7 @@ A Social Network API that works backend using both MongoDB (NoSQL connection usi
 4. Type the following command: ```cd API_Byte-Sync && npm i ``` 
 5. Create an .env file and add your MongoDB connection string
 ```
-MONGO_URI=mongodb://127.0.0.1:27017/socialNetworkDB
+MONGO_URL=mongodb://127.0.0.1:27017/socialNetworkDB
 PORT=3001
 ```
 5. Type the following command: ```npm run dev``` 
